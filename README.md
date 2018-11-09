@@ -1,2 +1,2 @@
-# CharlieMungerTalk
-查理 芒格 文章整理
+# Charlie Munger 简介及文集整理
+## Charlie Munger 是谁？
