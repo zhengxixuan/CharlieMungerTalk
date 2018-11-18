@@ -29,7 +29,7 @@
 - [2011年7月2日 芒格谈对世界的看法-Morgan Housel 采访1-2](https://www.fool.com/investing/general/2011/07/02/charlie-mungers-thoughts-on-the-world-part-1.aspx)
 - [2017年12月20日 在密歇根大学谈比特币](https://www.valuewalk.com/2017/12/charlie-munger-bitcoin/)
 
-##Charlie Munger 的书籍和文章
+## Charlie Munger 的书籍和文章
 
 - [芒格的格栅模型](http://www.focusinvestor.com/FocusSeriesPart3.pdf)
 - [芒格《2003年金融大丑闻》](http://www.bluechipinvestorfund.com/munger.html)
