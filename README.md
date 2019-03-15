@@ -55,9 +55,9 @@
 - [《每日日报》2014 年会纪要1-4](https://www.forbes.com/sites/phildemuth/2014/09/19/charlie-munger-and-the-2014-daily-journal-annual-meeting-a-fans-notes/#6dbb60f67d2c)
 - [《每日日报》2015 年会纪要1-4](https://www.forbes.com/sites/phildemuth/2015/04/07/charlie-mungers-2015-daily-journal-annual-meeting-part-1/#40f3ce34f183)
 - [《每日日报》2016 年会纪要](http://latticeworkinvesting.com/2016/02/13/charlie-munger-transcript-of-daily-journal-annual-meeting-2016/)
-
 - [《每日日报》2017 年会纪要](https://zh.scribd.com/document/340444245/Munger-2017-DJCO-Transcript)
 - [《每日日报》2018 年会纪要](http://latticeworkinvesting.com/2018/02/19/charlie-munger-full-transcript-of-daily-journal-annual-meeting-2018/)
+- [《每日日报》2019 年会纪要](http://latticeworkinvesting.com/2019/03/03/charlie-munger-full-transcript-of-daily-journal-annual-meeting-2019/)
 
 ## Charlie Munger 的视频和音频
 
