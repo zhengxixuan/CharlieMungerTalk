@@ -58,6 +58,7 @@
 - [《每日日报》2017 年会纪要](https://zh.scribd.com/document/340444245/Munger-2017-DJCO-Transcript)
 - [《每日日报》2018 年会纪要](http://latticeworkinvesting.com/2018/02/19/charlie-munger-full-transcript-of-daily-journal-annual-meeting-2018/)
 - [《每日日报》2019 年会纪要](http://latticeworkinvesting.com/2019/03/03/charlie-munger-full-transcript-of-daily-journal-annual-meeting-2019/)
+- [《每日日报》2020 年会纪要](https://junto.investments/worldly-lessons/daily-journal-2020-transcript/)
 
 ## Charlie Munger 的视频和音频
 
@@ -115,6 +116,7 @@
 ## ChangeLog
 
 - 2018-11-18  v1.0
+- 2020-02-23  add some letters 
 
 
 

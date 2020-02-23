@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DJCO 2018 Meeting notes
+title: DJCO 2019 Meeting notes
 categories: [Letters, ]
 
 ---
